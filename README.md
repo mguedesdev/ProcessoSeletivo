@@ -113,7 +113,7 @@ Este repositório contém as soluções para um desafio técnico composto por 5 
         
 4.  **Executar as questões:**
     
-    -   Navegue até a pasta  `src`  e execute os arquivos JavaScript com o Node.js:
+    -   Execute os arquivos JavaScript com o Node.js:
     
 		    node src/soma.js
 		    node src/fibonacci.js
